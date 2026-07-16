@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2026-07-16 18:53 UTC
+# Last update: 2026-07-16 18:56 UTC
 payload:
   - DOMAIN,ic.adobe.io
   - DOMAIN,cc-api-data.adobe.io
@@ -4422,3 +4422,80 @@ payload:
   - DOMAIN,z9i5preik.pkxns.adobestats.io
   - DOMAIN,zewq93b62h.pkxns.adobestats.io
   - DOMAIN,zwf7esdskea.pkxns.adobestats.io
+  - DOMAIN,0093ii0ri9gy.75rah.adobestats.io
+  - DOMAIN,0z7go7fb.75rah.adobestats.io
+  - DOMAIN,15ur8vf8g.75rah.adobestats.io
+  - DOMAIN,17xqere5a82x.75rah.adobestats.io
+  - DOMAIN,18elenndti.75rah.adobestats.io
+  - DOMAIN,1lnz360e.75rah.adobestats.io
+  - DOMAIN,2avsnwj1rxzq.75rah.adobestats.io
+  - DOMAIN,2c4xi0dizz.75rah.adobestats.io
+  - DOMAIN,2q16tsu6c5.75rah.adobestats.io
+  - DOMAIN,2z396720r.75rah.adobestats.io
+  - DOMAIN,30w16kw0.75rah.adobestats.io
+  - DOMAIN,33580nfq.75rah.adobestats.io
+  - DOMAIN,3youx63ysdd.75rah.adobestats.io
+  - DOMAIN,4vzx3mzrt9l.75rah.adobestats.io
+  - DOMAIN,530mowjg.75rah.adobestats.io
+  - DOMAIN,5ez6scxjc60.75rah.adobestats.io
+  - DOMAIN,76cw9ms2x.75rah.adobestats.io
+  - DOMAIN,7i2fhd0mr7.75rah.adobestats.io
+  - DOMAIN,7mheb680.75rah.adobestats.io
+  - DOMAIN,8311yu75zres.75rah.adobestats.io
+  - DOMAIN,8wwewbkg.75rah.adobestats.io
+  - DOMAIN,9vft0yhbg4r.75rah.adobestats.io
+  - DOMAIN,aaabwm6yy.75rah.adobestats.io
+  - DOMAIN,av1fphgn.75rah.adobestats.io
+  - DOMAIN,cc6ryf57.75rah.adobestats.io
+  - DOMAIN,cg770ub6u.75rah.adobestats.io
+  - DOMAIN,cl9lovi8b7pl.75rah.adobestats.io
+  - DOMAIN,d3yksgfad.75rah.adobestats.io
+  - DOMAIN,d542wirv.75rah.adobestats.io
+  - DOMAIN,dirobjn2q.75rah.adobestats.io
+  - DOMAIN,dotfo3583mt.75rah.adobestats.io
+  - DOMAIN,dszeqii0s.75rah.adobestats.io
+  - DOMAIN,exm2k8a9.75rah.adobestats.io
+  - DOMAIN,exxbx2a11p.75rah.adobestats.io
+  - DOMAIN,fa7cj8vbjn.75rah.adobestats.io
+  - DOMAIN,g1o68wpkdlf.75rah.adobestats.io
+  - DOMAIN,heofcukgt.75rah.adobestats.io
+  - DOMAIN,hjm0b2en.75rah.adobestats.io
+  - DOMAIN,i5fz81nmaljc.75rah.adobestats.io
+  - DOMAIN,ilchrtazf.75rah.adobestats.io
+  - DOMAIN,iqgg67ks.75rah.adobestats.io
+  - DOMAIN,ixa2jpld4.75rah.adobestats.io
+  - DOMAIN,ixsrxwaw68h.75rah.adobestats.io
+  - DOMAIN,j09bug596h.75rah.adobestats.io
+  - DOMAIN,ja5zertg.75rah.adobestats.io
+  - DOMAIN,jastuv2r.75rah.adobestats.io
+  - DOMAIN,jem1ne9osoqv.75rah.adobestats.io
+  - DOMAIN,jqxxvmaqsma.75rah.adobestats.io
+  - DOMAIN,lu57t4nf5i.75rah.adobestats.io
+  - DOMAIN,mdf2f6hkjju.75rah.adobestats.io
+  - DOMAIN,nayoyfpm4yg.75rah.adobestats.io
+  - DOMAIN,ne24cjgym9k.75rah.adobestats.io
+  - DOMAIN,p1a77or7xhk.75rah.adobestats.io
+  - DOMAIN,pg40zhmm.75rah.adobestats.io
+  - DOMAIN,piz67yr3f.75rah.adobestats.io
+  - DOMAIN,qa4x8j15f.75rah.adobestats.io
+  - DOMAIN,qifat990c9bk.75rah.adobestats.io
+  - DOMAIN,r5r4il7yitu.75rah.adobestats.io
+  - DOMAIN,riizmje3g.75rah.adobestats.io
+  - DOMAIN,s9m8pp5egkn.75rah.adobestats.io
+  - DOMAIN,sdpmqbagztki.75rah.adobestats.io
+  - DOMAIN,udasgq1glrw.75rah.adobestats.io
+  - DOMAIN,uzhqho66.75rah.adobestats.io
+  - DOMAIN,v3t21b0t5sf.75rah.adobestats.io
+  - DOMAIN,v9jefl1yac.75rah.adobestats.io
+  - DOMAIN,vkcwscop.75rah.adobestats.io
+  - DOMAIN,vkoupw4tqjx.75rah.adobestats.io
+  - DOMAIN,w2y230m9l.75rah.adobestats.io
+  - DOMAIN,wdtr1sqi00c3.75rah.adobestats.io
+  - DOMAIN,x39nlbmh2ul.75rah.adobestats.io
+  - DOMAIN,xvhur9sp.75rah.adobestats.io
+  - DOMAIN,xxz47nhe0kqr.75rah.adobestats.io
+  - DOMAIN,xzb231mxlpp.75rah.adobestats.io
+  - DOMAIN,y57l5isad.75rah.adobestats.io
+  - DOMAIN,yv061lxe2die.75rah.adobestats.io
+  - DOMAIN,yy2puia3brum.75rah.adobestats.io
+  - DOMAIN,ze9voqj5.75rah.adobestats.io
