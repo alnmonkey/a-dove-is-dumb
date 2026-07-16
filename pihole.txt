@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2026-07-10 11:38 UTC
+# Last update: 2026-07-16 16:20 UTC
 ic.adobe.io
 cc-api-data.adobe.io
 fp.adobestats.io
@@ -3609,3 +3609,59 @@ yio3ap3w494.xwk4b.adobestats.io
 e3y03zy11sin.6u13v.adobestats.io
 mhkfj4240610.6u13v.adobestats.io
 5n9rrijdplu.lqn0m.adobestats.io
+08mboq47.lqn0m.adobestats.io
+0fuy2szvoa3.lqn0m.adobestats.io
+0o21xxfez9s.lqn0m.adobestats.io
+1q71r97s30s8.lqn0m.adobestats.io
+1xnropye.lqn0m.adobestats.io
+253e3wr7u.lqn0m.adobestats.io
+440t57x83sb.lqn0m.adobestats.io
+49qkigbxjcpg.lqn0m.adobestats.io
+4qik7q3biy.lqn0m.adobestats.io
+62z5gqamb.lqn0m.adobestats.io
+6hbr6s7pmrhl.lqn0m.adobestats.io
+76tff5e2.lqn0m.adobestats.io
+7kz0gb6a2.lqn0m.adobestats.io
+7refqncpqw2.lqn0m.adobestats.io
+7rq2k2bo8x51.lqn0m.adobestats.io
+7y3p2gozed.lqn0m.adobestats.io
+8avs2ugx8.lqn0m.adobestats.io
+8stwrhm4.lqn0m.adobestats.io
+92l9wl6o50a.lqn0m.adobestats.io
+9b1oypwvxi9j.lqn0m.adobestats.io
+a8gzdg8149.lqn0m.adobestats.io
+bb65j6dz3.lqn0m.adobestats.io
+bqd9jaeb.lqn0m.adobestats.io
+c989kyrl.lqn0m.adobestats.io
+d5hwme3e9rh.lqn0m.adobestats.io
+dgaxbrkcggu.lqn0m.adobestats.io
+fqu8g2i34.lqn0m.adobestats.io
+fswpuoqmhi.lqn0m.adobestats.io
+g01w3tukvu.lqn0m.adobestats.io
+guffya6zy.lqn0m.adobestats.io
+hx9yorpr.lqn0m.adobestats.io
+iqva99v2zt4y.lqn0m.adobestats.io
+jsirjbkq.lqn0m.adobestats.io
+l4qxpy4rpu.lqn0m.adobestats.io
+lbbmncaje.lqn0m.adobestats.io
+mc2xu1aq.lqn0m.adobestats.io
+o87o82vg031.lqn0m.adobestats.io
+p1svqmoyr2.lqn0m.adobestats.io
+q8lv0hlv.lqn0m.adobestats.io
+qvpfbobdk.lqn0m.adobestats.io
+r73xtg41y0m1.lqn0m.adobestats.io
+rvag0qa5.lqn0m.adobestats.io
+s1anyotw4t48.lqn0m.adobestats.io
+t0kl3tzy6e.lqn0m.adobestats.io
+t882zkezjq.lqn0m.adobestats.io
+tn4a84gy.lqn0m.adobestats.io
+tr2q9a9j0.lqn0m.adobestats.io
+u3r8kw38il.lqn0m.adobestats.io
+u62ysjtbpz.lqn0m.adobestats.io
+vwlj88jj9yqp.lqn0m.adobestats.io
+watx4wlq0ix.lqn0m.adobestats.io
+wht56mms8s9w.lqn0m.adobestats.io
+wrgszpn5.lqn0m.adobestats.io
+x1myovt54.lqn0m.adobestats.io
+y3ulm205q9.lqn0m.adobestats.io
+yxkv1za17l7.lqn0m.adobestats.io

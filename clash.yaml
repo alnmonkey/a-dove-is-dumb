@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2026-07-10 11:38 UTC
+# Last update: 2026-07-16 16:20 UTC
 payload:
   - DOMAIN,ic.adobe.io
   - DOMAIN,cc-api-data.adobe.io
@@ -3610,3 +3610,59 @@ payload:
   - DOMAIN,e3y03zy11sin.6u13v.adobestats.io
   - DOMAIN,mhkfj4240610.6u13v.adobestats.io
   - DOMAIN,5n9rrijdplu.lqn0m.adobestats.io
+  - DOMAIN,08mboq47.lqn0m.adobestats.io
+  - DOMAIN,0fuy2szvoa3.lqn0m.adobestats.io
+  - DOMAIN,0o21xxfez9s.lqn0m.adobestats.io
+  - DOMAIN,1q71r97s30s8.lqn0m.adobestats.io
+  - DOMAIN,1xnropye.lqn0m.adobestats.io
+  - DOMAIN,253e3wr7u.lqn0m.adobestats.io
+  - DOMAIN,440t57x83sb.lqn0m.adobestats.io
+  - DOMAIN,49qkigbxjcpg.lqn0m.adobestats.io
+  - DOMAIN,4qik7q3biy.lqn0m.adobestats.io
+  - DOMAIN,62z5gqamb.lqn0m.adobestats.io
+  - DOMAIN,6hbr6s7pmrhl.lqn0m.adobestats.io
+  - DOMAIN,76tff5e2.lqn0m.adobestats.io
+  - DOMAIN,7kz0gb6a2.lqn0m.adobestats.io
+  - DOMAIN,7refqncpqw2.lqn0m.adobestats.io
+  - DOMAIN,7rq2k2bo8x51.lqn0m.adobestats.io
+  - DOMAIN,7y3p2gozed.lqn0m.adobestats.io
+  - DOMAIN,8avs2ugx8.lqn0m.adobestats.io
+  - DOMAIN,8stwrhm4.lqn0m.adobestats.io
+  - DOMAIN,92l9wl6o50a.lqn0m.adobestats.io
+  - DOMAIN,9b1oypwvxi9j.lqn0m.adobestats.io
+  - DOMAIN,a8gzdg8149.lqn0m.adobestats.io
+  - DOMAIN,bb65j6dz3.lqn0m.adobestats.io
+  - DOMAIN,bqd9jaeb.lqn0m.adobestats.io
+  - DOMAIN,c989kyrl.lqn0m.adobestats.io
+  - DOMAIN,d5hwme3e9rh.lqn0m.adobestats.io
+  - DOMAIN,dgaxbrkcggu.lqn0m.adobestats.io
+  - DOMAIN,fqu8g2i34.lqn0m.adobestats.io
+  - DOMAIN,fswpuoqmhi.lqn0m.adobestats.io
+  - DOMAIN,g01w3tukvu.lqn0m.adobestats.io
+  - DOMAIN,guffya6zy.lqn0m.adobestats.io
+  - DOMAIN,hx9yorpr.lqn0m.adobestats.io
+  - DOMAIN,iqva99v2zt4y.lqn0m.adobestats.io
+  - DOMAIN,jsirjbkq.lqn0m.adobestats.io
+  - DOMAIN,l4qxpy4rpu.lqn0m.adobestats.io
+  - DOMAIN,lbbmncaje.lqn0m.adobestats.io
+  - DOMAIN,mc2xu1aq.lqn0m.adobestats.io
+  - DOMAIN,o87o82vg031.lqn0m.adobestats.io
+  - DOMAIN,p1svqmoyr2.lqn0m.adobestats.io
+  - DOMAIN,q8lv0hlv.lqn0m.adobestats.io
+  - DOMAIN,qvpfbobdk.lqn0m.adobestats.io
+  - DOMAIN,r73xtg41y0m1.lqn0m.adobestats.io
+  - DOMAIN,rvag0qa5.lqn0m.adobestats.io
+  - DOMAIN,s1anyotw4t48.lqn0m.adobestats.io
+  - DOMAIN,t0kl3tzy6e.lqn0m.adobestats.io
+  - DOMAIN,t882zkezjq.lqn0m.adobestats.io
+  - DOMAIN,tn4a84gy.lqn0m.adobestats.io
+  - DOMAIN,tr2q9a9j0.lqn0m.adobestats.io
+  - DOMAIN,u3r8kw38il.lqn0m.adobestats.io
+  - DOMAIN,u62ysjtbpz.lqn0m.adobestats.io
+  - DOMAIN,vwlj88jj9yqp.lqn0m.adobestats.io
+  - DOMAIN,watx4wlq0ix.lqn0m.adobestats.io
+  - DOMAIN,wht56mms8s9w.lqn0m.adobestats.io
+  - DOMAIN,wrgszpn5.lqn0m.adobestats.io
+  - DOMAIN,x1myovt54.lqn0m.adobestats.io
+  - DOMAIN,y3ulm205q9.lqn0m.adobestats.io
+  - DOMAIN,yxkv1za17l7.lqn0m.adobestats.io
