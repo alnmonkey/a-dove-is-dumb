@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2026-07-16 16:20 UTC
+# Last update: 2026-07-16 16:23 UTC
 127.0.0.1 ic.adobe.io
 127.0.0.1 cc-api-data.adobe.io
 127.0.0.1 fp.adobestats.io
@@ -3665,3 +3665,48 @@
 127.0.0.1 x1myovt54.lqn0m.adobestats.io
 127.0.0.1 y3ulm205q9.lqn0m.adobestats.io
 127.0.0.1 yxkv1za17l7.lqn0m.adobestats.io
+127.0.0.1 026089waiu34.xwk4b.adobestats.io
+127.0.0.1 0etxnk8i.xwk4b.adobestats.io
+127.0.0.1 1tyygmcrz5.xwk4b.adobestats.io
+127.0.0.1 2v6ytn2c.xwk4b.adobestats.io
+127.0.0.1 33s01fhpyx.xwk4b.adobestats.io
+127.0.0.1 4rt7xys4xlbx.xwk4b.adobestats.io
+127.0.0.1 6b26uj509.xwk4b.adobestats.io
+127.0.0.1 8h8aptgm.xwk4b.adobestats.io
+127.0.0.1 8mn2im1lj9e.xwk4b.adobestats.io
+127.0.0.1 9eoz92l8j.xwk4b.adobestats.io
+127.0.0.1 ab3omkmt.xwk4b.adobestats.io
+127.0.0.1 ak2vqrnsac1o.xwk4b.adobestats.io
+127.0.0.1 cf1posj0.xwk4b.adobestats.io
+127.0.0.1 d3bed4pml.xwk4b.adobestats.io
+127.0.0.1 dsiui8rr.xwk4b.adobestats.io
+127.0.0.1 dwn0dktl13fg.xwk4b.adobestats.io
+127.0.0.1 e582fesopv50.xwk4b.adobestats.io
+127.0.0.1 ewrdi7yfm.xwk4b.adobestats.io
+127.0.0.1 f4f8qwt61ku.xwk4b.adobestats.io
+127.0.0.1 f6sp3ewv0.xwk4b.adobestats.io
+127.0.0.1 f87no9jff.xwk4b.adobestats.io
+127.0.0.1 fm6378mp.xwk4b.adobestats.io
+127.0.0.1 gxto8useu5.xwk4b.adobestats.io
+127.0.0.1 iexe6oxx53.xwk4b.adobestats.io
+127.0.0.1 iw7zvaqnhs.xwk4b.adobestats.io
+127.0.0.1 jgtpsxhpxa.xwk4b.adobestats.io
+127.0.0.1 jv3tmmosw.xwk4b.adobestats.io
+127.0.0.1 kge9beh7.xwk4b.adobestats.io
+127.0.0.1 knrufc4zekr3.xwk4b.adobestats.io
+127.0.0.1 l7kzwy4axkb.xwk4b.adobestats.io
+127.0.0.1 lantf51dszmd.xwk4b.adobestats.io
+127.0.0.1 mvlbszf3l2z9.xwk4b.adobestats.io
+127.0.0.1 omnubyg1.xwk4b.adobestats.io
+127.0.0.1 qq9xg26qgbf.xwk4b.adobestats.io
+127.0.0.1 qvaj5it92.xwk4b.adobestats.io
+127.0.0.1 rmr3o0swt.xwk4b.adobestats.io
+127.0.0.1 rorn2gbn.xwk4b.adobestats.io
+127.0.0.1 tfsmyq3alh.xwk4b.adobestats.io
+127.0.0.1 uibpsi58wz.xwk4b.adobestats.io
+127.0.0.1 vslvxkemym.xwk4b.adobestats.io
+127.0.0.1 vtqcu4u1hnx.xwk4b.adobestats.io
+127.0.0.1 w549vzbw.xwk4b.adobestats.io
+127.0.0.1 wzbpji7xl42.xwk4b.adobestats.io
+127.0.0.1 xo5p6dkxoal1.xwk4b.adobestats.io
+127.0.0.1 xvcqxurqv1.xwk4b.adobestats.io
