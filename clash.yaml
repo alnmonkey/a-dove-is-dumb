@@ -5,7 +5,7 @@
 # Pop up window? Report at:
 # https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2026-07-16 16:44 UTC
+# Last update: 2026-07-16 16:46 UTC
 payload:
   - DOMAIN,ic.adobe.io
   - DOMAIN,cc-api-data.adobe.io
@@ -3926,3 +3926,98 @@ payload:
   - DOMAIN,yrbuyeas4702.ay6tu.adobestats.io
   - DOMAIN,yyws8gl37.ay6tu.adobestats.io
   - DOMAIN,zla6hlavs.ay6tu.adobestats.io
+  - DOMAIN,06je1ucly.hzm8t.adobestats.io
+  - DOMAIN,0ef000apmkvf.hzm8t.adobestats.io
+  - DOMAIN,0ysy2tzg4cki.hzm8t.adobestats.io
+  - DOMAIN,1a3htr4urghb.hzm8t.adobestats.io
+  - DOMAIN,1wcucwqp8i5.hzm8t.adobestats.io
+  - DOMAIN,22y96l34biw.hzm8t.adobestats.io
+  - DOMAIN,28ss2864k9.hzm8t.adobestats.io
+  - DOMAIN,2ptnka367.hzm8t.adobestats.io
+  - DOMAIN,2wxbzmzk82j.hzm8t.adobestats.io
+  - DOMAIN,35ooez1pv.hzm8t.adobestats.io
+  - DOMAIN,370c8rhxfa57.hzm8t.adobestats.io
+  - DOMAIN,3bt6o4l7ccpt.hzm8t.adobestats.io
+  - DOMAIN,3wdm0rr8gc.hzm8t.adobestats.io
+  - DOMAIN,4y6f8hb7.hzm8t.adobestats.io
+  - DOMAIN,53vefgh3j.hzm8t.adobestats.io
+  - DOMAIN,5597xz35j.hzm8t.adobestats.io
+  - DOMAIN,55fw5o1eg5wb.hzm8t.adobestats.io
+  - DOMAIN,58i6tahp.hzm8t.adobestats.io
+  - DOMAIN,5fkl00ej.hzm8t.adobestats.io
+  - DOMAIN,5miup3ayh.hzm8t.adobestats.io
+  - DOMAIN,5phf37kr.hzm8t.adobestats.io
+  - DOMAIN,5yxkuug6rr.hzm8t.adobestats.io
+  - DOMAIN,61cf5qivu2.hzm8t.adobestats.io
+  - DOMAIN,6h95hqd9agbn.hzm8t.adobestats.io
+  - DOMAIN,6q1j5uc6e.hzm8t.adobestats.io
+  - DOMAIN,6z50wngxp.hzm8t.adobestats.io
+  - DOMAIN,7789qs6yvp.hzm8t.adobestats.io
+  - DOMAIN,77lz31vsu58.hzm8t.adobestats.io
+  - DOMAIN,79xvi2xec5.hzm8t.adobestats.io
+  - DOMAIN,7e2aj4l5pxb.hzm8t.adobestats.io
+  - DOMAIN,7iohf8ln9si.hzm8t.adobestats.io
+  - DOMAIN,7yvk0xbnbb7x.hzm8t.adobestats.io
+  - DOMAIN,895vsyw2n.hzm8t.adobestats.io
+  - DOMAIN,8eu75nx4zwm.hzm8t.adobestats.io
+  - DOMAIN,8l41vmte.hzm8t.adobestats.io
+  - DOMAIN,8pjcqoku5v.hzm8t.adobestats.io
+  - DOMAIN,8w4unqur.hzm8t.adobestats.io
+  - DOMAIN,9dkg6za4y.hzm8t.adobestats.io
+  - DOMAIN,9ef87lzvk9s0.hzm8t.adobestats.io
+  - DOMAIN,a2uqbzbjdvcl.hzm8t.adobestats.io
+  - DOMAIN,ai75d8wy.hzm8t.adobestats.io
+  - DOMAIN,b548fob7bp.hzm8t.adobestats.io
+  - DOMAIN,bu9pd2zn8pn.hzm8t.adobestats.io
+  - DOMAIN,cbq9z53ulsr.hzm8t.adobestats.io
+  - DOMAIN,d8jgy97tp.hzm8t.adobestats.io
+  - DOMAIN,dxfnruugr.hzm8t.adobestats.io
+  - DOMAIN,fjhze5mmd3.hzm8t.adobestats.io
+  - DOMAIN,ftuzlh5cbq.hzm8t.adobestats.io
+  - DOMAIN,g51c24nxwsz1.hzm8t.adobestats.io
+  - DOMAIN,hxnq5rkigr1.hzm8t.adobestats.io
+  - DOMAIN,i5i82c0rqx96.hzm8t.adobestats.io
+  - DOMAIN,inv0zd9zu2yl.hzm8t.adobestats.io
+  - DOMAIN,ixdn1jtjqegb.hzm8t.adobestats.io
+  - DOMAIN,j1hx3r481zk.hzm8t.adobestats.io
+  - DOMAIN,j8m1lg7zymz.hzm8t.adobestats.io
+  - DOMAIN,jchg3dbq.hzm8t.adobestats.io
+  - DOMAIN,kuybntl5rp.hzm8t.adobestats.io
+  - DOMAIN,l26y7x5hhe.hzm8t.adobestats.io
+  - DOMAIN,lbp8g57gdlht.hzm8t.adobestats.io
+  - DOMAIN,lefsp34d5m.hzm8t.adobestats.io
+  - DOMAIN,mer1glrkmif.hzm8t.adobestats.io
+  - DOMAIN,ntrwl75wb44.hzm8t.adobestats.io
+  - DOMAIN,o44ynivvglkk.hzm8t.adobestats.io
+  - DOMAIN,ofk288xf09xf.hzm8t.adobestats.io
+  - DOMAIN,om7vkd364cmm.hzm8t.adobestats.io
+  - DOMAIN,pxomkgwxc.hzm8t.adobestats.io
+  - DOMAIN,q24a6fp88.hzm8t.adobestats.io
+  - DOMAIN,q6dzwb38.hzm8t.adobestats.io
+  - DOMAIN,rmj2im2sb.hzm8t.adobestats.io
+  - DOMAIN,rnxxclu2s.hzm8t.adobestats.io
+  - DOMAIN,rx24o5o8mbd.hzm8t.adobestats.io
+  - DOMAIN,s1czqhx39.hzm8t.adobestats.io
+  - DOMAIN,s9f2o29ma7lr.hzm8t.adobestats.io
+  - DOMAIN,s9nwnrzd.hzm8t.adobestats.io
+  - DOMAIN,secq5bfjq4.hzm8t.adobestats.io
+  - DOMAIN,sq7md5y78.hzm8t.adobestats.io
+  - DOMAIN,ssgt7qercp.hzm8t.adobestats.io
+  - DOMAIN,tn13a8owkw.hzm8t.adobestats.io
+  - DOMAIN,tnxrd307n.hzm8t.adobestats.io
+  - DOMAIN,tt6qd448.hzm8t.adobestats.io
+  - DOMAIN,u1iyqqv7du84.hzm8t.adobestats.io
+  - DOMAIN,uhv7ate19.hzm8t.adobestats.io
+  - DOMAIN,uhvdxrawl.hzm8t.adobestats.io
+  - DOMAIN,uu8r0jqy47.hzm8t.adobestats.io
+  - DOMAIN,uyp1a6kxk.hzm8t.adobestats.io
+  - DOMAIN,vbk8a94ubp7.hzm8t.adobestats.io
+  - DOMAIN,vmrm6zjsgi.hzm8t.adobestats.io
+  - DOMAIN,wwziyn5uo.hzm8t.adobestats.io
+  - DOMAIN,xie4iid2.hzm8t.adobestats.io
+  - DOMAIN,xofn1jjit.hzm8t.adobestats.io
+  - DOMAIN,xx8oqco3tbh.hzm8t.adobestats.io
+  - DOMAIN,z6koyg5lg1.hzm8t.adobestats.io
+  - DOMAIN,zp2iqjo4fg.hzm8t.adobestats.io
+  - DOMAIN,zsrucmr1kk5r.hzm8t.adobestats.io
+  - DOMAIN,zujj6v7zc34.hzm8t.adobestats.io
